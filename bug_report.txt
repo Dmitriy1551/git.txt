@@ -1,2 +1,6 @@
 ID: number is bug
 Summary: who? where? when?
+Description: specification
+Actual/expected result 
+Attachments: investmen
+Priority :P1 High ;P2 Medium ;P3 Low 
