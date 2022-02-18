@@ -3,3 +3,5 @@ Jmeter
 Python
 Postman
 Android studio
+Fiddler
+SQL
